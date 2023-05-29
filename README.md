@@ -1,7 +1,9 @@
 # InternPE-PyIntern-Tasks
 
-Task 1: Tic Tac Toe Game
-Description:- 
+**Task 1: Tic Tac Toe Game**
+
+
+**Description**:- 
 We start by creating an empty board list with 9 elements representing the positions of the Tic Tac Toe board.
 'print_board()' function is defined to display the current state of the board.
 'check_winner()' function checks if any player has won the game by checking the rows, columns, and diagonals of the board.
