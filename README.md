@@ -1,6 +1,7 @@
 # InternPE-PyIntern-Tasks
 
 **#Task 1: Tic Tac Toe Game**
+
 **Description**:- 
 
 •	We start by creating an empty board list with 9 elements representing the positions of the Tic Tac Toe board.
