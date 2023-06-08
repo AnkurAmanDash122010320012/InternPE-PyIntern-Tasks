@@ -19,6 +19,7 @@
 **#Task 2: Digital Clock**
 
 **Description**:-
+
 •	We start code by implementing a digital clock using Python and the Tkinter library. The digital clock displays the current time and updates it every second.
 •	The clock is displayed in a graphical user interface (GUI) window created using Tkinter. The clock's appearance can be customized with different font styles, colors, and background options.
 •	The code begins by importing the necessary modules: tkinter, time, and messagebox. Tkinter is used for creating the GUI, time is used for getting the current time, and messagebox is used to display information boxes.
